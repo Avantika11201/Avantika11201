@@ -10,19 +10,6 @@
 - 🌱 Always learning, always growing
 
 
-### 📘 Academic Highlights
-
-- 🤖 **Artificial Intelligence** – Informed search, knowledge representation, expert systems
-- 🧠 **Deep Learning** – Neural networks, CNNs, RNNs, transfer learning, speech emotion recognition
-- 📊 **Data Science** – Feature extraction, data visualization, EDA, model building & evaluation
-- 🔗 **Blockchain** – Smart contracts, Ethereum, decentralization, consensus mechanisms
-- ⚙️ **Parallel & Distributed Computing** – Concurrency, OpenMP, MPI, distributed systems
-- 🔐 **Information Security** – Cryptography, secure protocols, authentication, threat models
-- 🛠️ **Compiler Construction** – Lexical analysis, parsing, code generation and optimization
-- 🧮 **Assembly Language** – Low-level programming, registers, memory operations, x86 architecture
-- 📐 **Mathematics for CS** – Calculus, Multivariable Calculus, Linear Algebra, Graph Theory, Discrete Mathematics
-
-
 ### 🛠️ Tech Stack
 
 ### 🧠 Data Science & Machine Learning
@@ -104,6 +91,21 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
+### 📘 Academic Highlights
+
+- 🌐 **Web Engineering** – Frontend/backend development, REST APIs, MVC architecture
+- 🧩 **Enterprise Application Development (EAD)** – Software architecture, design patterns, enterprise-level systems
+- 🤖 **Artificial Intelligence** – Informed search, knowledge representation, expert systems
+- 🧠 **Deep Learning** – Neural networks, CNNs, RNNs, transfer learning, speech emotion recognition
+- 📊 **Data Science** – Feature extraction, data visualization, EDA, model building & evaluation
+- 🔗 **Blockchain** – Smart contracts, Ethereum, decentralization, consensus mechanisms
+- ⚙️ **Parallel & Distributed Computing** – Concurrency, OpenMP, MPI, distributed systems
+- 🔐 **Information Security** – Cryptography, secure protocols, authentication, threat models
+- 🛠️ **Compiler Construction** – Lexical analysis, parsing, code generation and optimization
+- 💾 **Assembly Language** – Low-level programming, registers, memory operations, x86 architecture
+- 📐 **Mathematics for CS** – Calculus, Multivariable Calculus, Linear Algebra, Graph Theory, Discrete Mathematics
 
 
 ---
