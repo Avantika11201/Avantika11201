@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently exploring Deep Learning & Android Development
 - 🎯 Final Year Project: Speech Emotion Recognition using HuBERT & CNN
-- 💬 Ask me about Java, Kotlin, Jetpack Compose, ML, or Web Dev
+- 💬 Ask me about Data Science, ML, DL, Web Dev, Java, Kotlin, or Jetpack Compose ML, or Web Dev
 - 🌙 Moon lover & firm believer in Gurbani 🙏
 - 🌱 Always learning, always growing
 
@@ -58,20 +58,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-
-
-### Other
-![Languages](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android)
-
 
 
 ### 🧠 Tools & Technologies
