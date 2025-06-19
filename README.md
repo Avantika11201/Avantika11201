@@ -93,6 +93,11 @@
 </p>
 
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Avantika11201&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 🌐 Connect with Me
 
 <p align="left">
