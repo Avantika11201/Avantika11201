@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently exploring Deep Learning & Android Development
 - 🎯 Final Year Project: Speech Emotion Recognition using HuBERT & CNN
-- 💬 Ask me about Data Science, ML, DL, Web Dev, Java, Kotlin, or Jetpack Compose ML, or Web Dev
+- 💬 Ask me about Data Science, ML, DL, Web Dev, Java, Kotlin, or Jetpack Compose
 - 🌙 Moon lover & firm believer in Gurbani 🙏
 - 🌱 Always learning, always growing
 
@@ -79,7 +79,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in\avantika-jeewani-828676257" target="_blank">
+  <a href="https://www.linkedin.com/in/avantika-jeewani-828676257" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ajeewani705@gmail.com" target="_blank">
