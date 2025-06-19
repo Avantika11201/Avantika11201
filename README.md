@@ -27,7 +27,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AvantikaJeewani&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AvantikaJeewani&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avantika11201&theme=dark" />
 </p>
 
 ---
