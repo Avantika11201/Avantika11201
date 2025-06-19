@@ -1,23 +1,35 @@
-# 💫 About Me:
-I am a passionate and curious individual with a love for <br>technology and programming. <br>My journey in the world of software development started <br>a few years ago, <br>and since then, I have been constantly exploring and <br>learning new things.
+<h1 align="center">Hi there, I'm Avantika Jeewani 👋</h1>
 
+### 🎓 A passionate Computer Science graduate from Sukkur IBA University
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Avantika Jeewani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avantika Jeewani) 
+- 🔭 I’m currently exploring Deep Learning & Android Development
+- 🎯 Final Year Project: Speech Emotion Recognition using HuBERT & CNN
+- 💬 Ask me about Java, Kotlin, Jetpack Compose, ML, or Web Dev
+- 🌙 Moon lover & firm believer in Gurbani 🙏
+- 🌱 Always learning, always growing
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Avantika11201&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Avantika11201&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avantika11201&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🛠️ Tech Stack
+![Languages](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Avantika11201&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+### 🧠 Tools & Technologies
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AvantikaJeewani&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AvantikaJeewani&theme=dark" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Avantika11201&icon=0&color=0)](https://visitcount.itsvg.in)
 
+✨ *“The only limit to your impact is your imagination and commitment.”*
