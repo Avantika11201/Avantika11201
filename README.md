@@ -4,9 +4,24 @@
 
 - 🔭 I’m currently exploring Deep Learning & Android Development
 - 🎯 Final Year Project: Speech Emotion Recognition using HuBERT & CNN
-- 💬 Ask me about Data Science, ML, DL, Web Dev, Java, Kotlin, or Jetpack Compose
+- 💬 Ask me about Artificial Intelligence, Deep Learning, Data Science, Web Dev, Java, Kotlin, or Jetpack Compose
+- 🧠 Studied Blockchain, Parallel & Distributed Computing, Information Security, Compiler Construction, and Assembly Language — with strong foundations in smart contracts, concurrency, cryptography, parsing, and low-level memory management
 - 🌙 Moon lover & firm believer in Gurbani 🙏
 - 🌱 Always learning, always growing
+
+
+### 📘 Academic Highlights
+
+- 🤖 **Artificial Intelligence** – Informed search, knowledge representation, expert systems
+- 🧠 **Deep Learning** – Neural networks, CNNs, RNNs, transfer learning, speech emotion recognition
+- 📊 **Data Science** – Feature extraction, data visualization, EDA, model building & evaluation
+- 🔗 **Blockchain** – Smart contracts, Ethereum, decentralization, consensus mechanisms
+- ⚙️ **Parallel & Distributed Computing** – Concurrency, OpenMP, MPI, distributed systems
+- 🔐 **Information Security** – Cryptography, secure protocols, authentication, threat models
+- 🛠️ **Compiler Construction** – Lexical analysis, parsing, code generation and optimization
+- 🧮 **Assembly Language** – Low-level programming, registers, memory operations, x86 architecture
+- 📐 **Mathematics for CS** – Calculus, Multivariable Calculus, Linear Algebra, Graph Theory, Discrete Mathematics
+
 
 ### 🛠️ Tech Stack
 
